@@ -1,1 +1,6 @@
-# projet_methodo_ATL_2026
+# Méthodologie de projet, parcours ATL
+
+## Contexte
+Projet en linguistique, parcours ATL du master SDL d'Orléans.
+
+## Pré-requis
